@@ -9,7 +9,8 @@ public class Subscriberer {
     private String userName;
     List<Item> items = new ArrayList<>();
 
-    //constructor
+//    add some changes
+//    constructor
     public Subscriberer(String userName) {
         this.userName = userName;
     }
